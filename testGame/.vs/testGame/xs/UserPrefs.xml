@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{A9FEDB04-BE15-37CF-3131-E35B4D0C8CE8}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/Forever_MoveH_OnCollision_Flip2.cs">
+    <Files>
+      <File FileName="Assets/scripts/Forever_Chase2.cs" Line="17" Column="58" />
+      <File FileName="Assets/scripts/Forever_MoveH_OnCollision_Flip2.cs" Line="22" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="testGame" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="42739dac-e64c-4b29-a9a5-6d007c8f9ee4" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

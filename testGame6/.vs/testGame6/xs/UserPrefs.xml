@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{18F3589F-E471-A644-1E70-4B2D65819B1D}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/OnTrigger_CountAndHide.cs">
+    <Files>
+      <File FileName="Assets/scripts/OnTrigger_CountAndHide.cs" Line="12" Column="44" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="testGame6" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="scripts" expanded="True">
+                <Node name="group9_Counter" expanded="True" />
+                <Node name="OnTrigger_CountAndHide.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="42739dac-e64c-4b29-a9a5-6d007c8f9ee4" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
